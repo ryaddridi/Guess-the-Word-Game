@@ -1,1 +1,1 @@
-live link :  https://ryaddridi.github.io/Guess-the-Word-Game/
+demo :  https://ryaddridi.github.io/Guess-the-Word-Game/
